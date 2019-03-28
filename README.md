@@ -16,3 +16,10 @@
 - Canal Youtube: https://bit.ly/2BWvikz
 
 
+# ENLACES
+
+## Teoria de sistemas
+
+- Teoria General de Sistemas: https://youtu.be/ROdDFC4eUJ8
+- Teoria de Sistemas: https://youtu.be/ZWWWxFR0iEw
+
