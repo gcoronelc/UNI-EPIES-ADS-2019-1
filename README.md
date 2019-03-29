@@ -23,3 +23,6 @@
 - Teoria General de Sistemas: https://youtu.be/ROdDFC4eUJ8
 - Teoria de Sistemas: https://youtu.be/ZWWWxFR0iEw
 
+## Arquitectura de Software
+
+- https://www.youtube.com/watch?v=2Bcbls0bBzs
