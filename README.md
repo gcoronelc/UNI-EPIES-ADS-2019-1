@@ -26,3 +26,10 @@
 ## Arquitectura de Software
 
 - https://www.youtube.com/watch?v=2Bcbls0bBzs
+
+
+## Casos de Uso
+
+- http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
+
+
