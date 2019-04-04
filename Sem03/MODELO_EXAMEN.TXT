@@ -1,0 +1,12 @@
+PROBLEMA
+=============================
+Un estudiante va ha realizar 
+el prestamo de un libro.
+
+SE PIDE
+=============================
+1.- Identificar los casos de uso,
+    sus relaciones y actores.
+2.- Documentar los casos de uso.
+3.- Diseñar las interfaces de usuario.
+
