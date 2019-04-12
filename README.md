@@ -33,4 +33,8 @@
 - https://youtu.be/orvAkFFWo5o
 - http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/416
 
+## Pruebas de Software
+
+- https://youtu.be/6EqQWVQNwlw
+
 
