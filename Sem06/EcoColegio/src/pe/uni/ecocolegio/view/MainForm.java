@@ -42,6 +42,8 @@ public class MainForm extends javax.swing.JFrame {
         helpMenu = new javax.swing.JMenu();
         contentMenuItem = new javax.swing.JMenuItem();
         aboutMenuItem = new javax.swing.JMenuItem();
+        menuPlanificador = new javax.swing.JMenu();
+        menuPlanificadorCrearSeccion = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -106,6 +108,18 @@ public class MainForm extends javax.swing.JFrame {
 
         menuBar.add(helpMenu);
 
+        menuPlanificador.setText("Planificador");
+
+        menuPlanificadorCrearSeccion.setText("Crear Sección");
+        menuPlanificadorCrearSeccion.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                menuPlanificadorCrearSeccionActionPerformed(evt);
+            }
+        });
+        menuPlanificador.add(menuPlanificadorCrearSeccion);
+
+        menuBar.add(menuPlanificador);
+
         setJMenuBar(menuBar);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -125,6 +139,12 @@ public class MainForm extends javax.swing.JFrame {
     private void exitMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitMenuItemActionPerformed
         System.exit(0);
     }//GEN-LAST:event_exitMenuItemActionPerformed
+
+    private void menuPlanificadorCrearSeccionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuPlanificadorCrearSeccionActionPerformed
+        CrearSeccionView view = new CrearSeccionView();
+        desktopPane.add(view);
+        view.setVisible(true);
+    }//GEN-LAST:event_menuPlanificadorCrearSeccionActionPerformed
 
     /**
      * @param args the command line arguments
@@ -173,6 +193,8 @@ public class MainForm extends javax.swing.JFrame {
     private javax.swing.JMenu fileMenu;
     private javax.swing.JMenu helpMenu;
     private javax.swing.JMenuBar menuBar;
+    private javax.swing.JMenu menuPlanificador;
+    private javax.swing.JMenuItem menuPlanificadorCrearSeccion;
     private javax.swing.JMenuItem openMenuItem;
     private javax.swing.JMenuItem pasteMenuItem;
     private javax.swing.JMenuItem saveAsMenuItem;
