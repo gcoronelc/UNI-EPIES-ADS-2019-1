@@ -37,4 +37,8 @@
 
 - https://youtu.be/6EqQWVQNwlw
 
+## Diagramas de Secuencia
+
+- https://youtu.be/Q1kH7XKxK5I
+- https://youtu.be/xiQfSFxuuBw
 
