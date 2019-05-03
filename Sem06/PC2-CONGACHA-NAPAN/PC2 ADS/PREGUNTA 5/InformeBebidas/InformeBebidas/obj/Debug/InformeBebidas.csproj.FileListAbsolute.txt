@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Form1.resources
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Properties.Resources.resources
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.exe.config
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.exe
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.pdb
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.exe
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.pdb
+C:\Users\user\Desktop\Trabajo ADS\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Informe.resources
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.exe.config
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.exe
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\bin\Debug\InformeBebidas.pdb
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csprojAssemblyReference.cache
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Form1.resources
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Informe.resources
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.Properties.Resources.resources
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csproj.GenerateResource.cache
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.csproj.CoreCompileInputs.cache
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.exe
+D:\UNI-EPIES\ADS\Evaluacion\PC2\CONGACHA-NAPAN\PC2 ADS\PREGUNTA 5\InformeBebidas\InformeBebidas\obj\Debug\InformeBebidas.pdb
