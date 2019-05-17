@@ -1,0 +1,47 @@
+USE COLEGIO;
+GO
+
+
+
+CREATE TABLE dbo.TB_ROLES
+( 
+	ID_ROL               integer IDENTITY ( 1,1 ) ,
+	NOMBRE               varchar(100)  NULL 
+)
+go
+
+
+
+ALTER TABLE dbo.TB_ROLES
+	ADD CONSTRAINT XPKTB_ROLES PRIMARY KEY (ID_ROL ASC)
+go
+
+
+
+CREATE TABLE dbo.TB_USUARIO
+( 
+	ID_USUARIO           integer IDENTITY ( 1,1 ) ,
+	ID_ROL               integer  NOT NULL ,
+	NOMBRE               varchar(100)  NULL ,
+	APELLIDO             varchar(100)  NULL ,
+	USUARIO              varchar(50)  NULL ,
+	CLAVE                varchar(100)  NULL 
+)
+go
+
+
+
+ALTER TABLE dbo.TB_USUARIO
+	ADD CONSTRAINT XPKTB_USUARIO PRIMARY KEY (ID_USUARIO ASC)
+go
+
+
+
+
+ALTER TABLE dbo.TB_USUARIO
+	ADD CONSTRAINT FK_USUARIO_ROL FOREIGN KEY (ID_ROL) REFERENCES dbo.TB_ROLES(ID_ROL)
+		ON DELETE NO ACTION
+		ON UPDATE NO ACTION
+go
+
+
