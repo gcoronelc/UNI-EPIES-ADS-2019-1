@@ -1,6 +1,7 @@
 package pe.uni.ecocolegio.controller;
 
 import java.util.List;
+import java.util.Map;
 import pe.uni.ecocolegio.dto.ComboDto;
 import pe.uni.ecocolegio.dto.SeccionDto;
 import pe.uni.ecocolegio.service.ComboService;
@@ -42,6 +43,13 @@ public class SeccionController extends ControllerAbstract{
         seccionService.crearSeccion(dto);
         this.setEstado(comboService.getEstado());
         this.setMensaje(comboService.getMensaje());
+    }
+
+    public List<Map<String, Object>> getSecciones(int periodo, int nivel, int grado) {
+        List<Map<String, Object>> lista = seccionService.getSecciones(periodo, nivel, grado);
+        this.setEstado(seccionService.getEstado());
+        this.setMensaje(seccionService.getMensaje());
+        return lista;
     }
     
 }

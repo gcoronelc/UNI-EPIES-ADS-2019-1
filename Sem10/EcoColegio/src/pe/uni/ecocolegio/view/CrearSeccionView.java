@@ -1,9 +1,13 @@
 package pe.uni.ecocolegio.view;
 
 import java.util.List;
+import java.util.Map;
+import javax.swing.table.DefaultTableModel;
 import pe.uni.ecocolegio.controller.SeccionController;
 import pe.uni.ecocolegio.dto.ComboDto;
 import pe.uni.ecocolegio.dto.SeccionDto;
+import pe.uni.ecocolegio.util.Dialogo;
+import pe.uni.ecocolegio.util.ViewUtil;
 
 public class CrearSeccionView extends javax.swing.JInternalFrame {
 
@@ -19,6 +23,21 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
         control = new SeccionController();
         llenarComboPeriodos();
         llenarComboNiveles();
+    }
+    
+    private void llenarComboPeriodos(){
+        // Datos
+        List<String> lista = control.getPeriodos();
+        // Proceso
+        flagEstoyTrabajando = true;
+        cboPeriodo.removeAllItems();
+        if( control.getEstado() == 1 ){
+            for (String periodo : lista) {
+                cboPeriodo.addItem(periodo);
+            }
+            cboPeriodo.setSelectedIndex(-1);
+        }
+        flagEstoyTrabajando = false;
     }
     
     private void llenarComboNiveles(){
@@ -38,18 +57,7 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
         flagEstoyTrabajando = false;
     }
 
-    private void llenarComboPeriodos(){
-        // Datos
-        List<String> lista = control.getPeriodos();
-        // Proceso
-        cboPeriodo.removeAllItems();
-        if( control.getEstado() == 1 ){
-            for (String periodo : lista) {
-                cboPeriodo.addItem(periodo);
-            }
-            cboPeriodo.setSelectedIndex(-1);
-        }
-    }
+    
     
     
     
@@ -76,7 +84,8 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
         jPanel2 = new javax.swing.JPanel();
         btnCrearSeccion = new javax.swing.JButton();
         jPanel3 = new javax.swing.JPanel();
-        txtReporte = new javax.swing.JLabel();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        tblSecciones = new javax.swing.JTable();
 
         setClosable(true);
         setMaximizable(true);
@@ -89,6 +98,11 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
 
         cboPeriodo.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         cboPeriodo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "aaaa", "bbbb", "cccc", "dddd", "eeee" }));
+        cboPeriodo.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                cboPeriodoActionPerformed(evt);
+            }
+        });
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel2.setText("Nivel:");
@@ -104,6 +118,11 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
         jLabel3.setText("Grado:");
 
         cboGrado.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        cboGrado.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                cboGradoActionPerformed(evt);
+            }
+        });
 
         jLabel4.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel4.setText("Vacantes:");
@@ -199,23 +218,59 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
 
         jPanel3.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "REPORTE", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.ABOVE_TOP, new java.awt.Font("Tahoma", 1, 18), new java.awt.Color(0, 51, 255))); // NOI18N
 
-        txtReporte.setForeground(new java.awt.Color(204, 0, 51));
+        tblSecciones.setModel(new javax.swing.table.DefaultTableModel(
+            new Object [][] {
+                {null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null}
+            },
+            new String [] {
+                "SECCION", "PERIODO", "NIVEL", "GRADO", "NOMBRE", "VACANTES", "MATRICULADOS"
+            }
+        ) {
+            Class[] types = new Class [] {
+                java.lang.Integer.class, java.lang.Integer.class, java.lang.String.class, java.lang.String.class, java.lang.String.class, java.lang.Integer.class, java.lang.Integer.class
+            };
+            boolean[] canEdit = new boolean [] {
+                false, false, false, false, false, true, true
+            };
+
+            public Class getColumnClass(int columnIndex) {
+                return types [columnIndex];
+            }
+
+            public boolean isCellEditable(int rowIndex, int columnIndex) {
+                return canEdit [columnIndex];
+            }
+        });
+        tblSecciones.setSelectionMode(javax.swing.ListSelectionModel.SINGLE_SELECTION);
+        jScrollPane1.setViewportView(tblSecciones);
+        if (tblSecciones.getColumnModel().getColumnCount() > 0) {
+            tblSecciones.getColumnModel().getColumn(0).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(1).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(2).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(3).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(4).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(5).setResizable(false);
+            tblSecciones.getColumnModel().getColumn(6).setResizable(false);
+        }
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
+            .addGroup(jPanel3Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(txtReporte, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jScrollPane1)
                 .addContainerGap())
         );
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(txtReporte, javax.swing.GroupLayout.PREFERRED_SIZE, 59, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(35, Short.MAX_VALUE))
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 149, Short.MAX_VALUE)
+                .addContainerGap())
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -224,24 +279,24 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(142, Short.MAX_VALUE))
+                        .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(0, 261, Short.MAX_VALUE)))
+                .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGap(24, 24, 24)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGap(10, 10, 10))
+                .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
@@ -264,6 +319,7 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
             }
             cboGrado.setSelectedIndex(-1);
         }
+        cargarSecciones();
         flagEstoyTrabajando = false;
     }//GEN-LAST:event_cboNivelActionPerformed
 
@@ -280,9 +336,29 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
         // Proceso
         control.crearSeccion( dto );
         //  Reporte
-        txtReporte.setText(control.getMensaje());
-        
+        flagEstoyTrabajando = true;
+        cargarSecciones();
+        Dialogo.info(null, control.getMensaje());
+        flagEstoyTrabajando = false;
     }//GEN-LAST:event_btnCrearSeccionActionPerformed
+
+    private void cboPeriodoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cboPeriodoActionPerformed
+        if( flagEstoyTrabajando ){
+            return;
+        }
+        flagEstoyTrabajando = true;
+        cargarSecciones();
+        flagEstoyTrabajando = false;
+    }//GEN-LAST:event_cboPeriodoActionPerformed
+
+    private void cboGradoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cboGradoActionPerformed
+        if( flagEstoyTrabajando ){
+            return;
+        }
+        flagEstoyTrabajando = true;
+        cargarSecciones();
+        flagEstoyTrabajando = false;
+    }//GEN-LAST:event_cboGradoActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
@@ -298,8 +374,36 @@ public class CrearSeccionView extends javax.swing.JInternalFrame {
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel3;
+    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JTable tblSecciones;
     private javax.swing.JTextField txtNomSeccion;
-    private javax.swing.JLabel txtReporte;
     private javax.swing.JTextField txtVacantes;
     // End of variables declaration//GEN-END:variables
+
+    private void cargarSecciones(){
+        // Datos
+        int periodo = Integer.parseInt(cboPeriodo.getSelectedItem().toString());
+        int nivel = ViewUtil.obtenerValorCombo( cboNivel );
+        int grado = ViewUtil.obtenerValorCombo( cboGrado );
+        // Proceso
+        List<Map<String,Object>> lista = control.getSecciones(periodo,nivel,grado);
+        // Reporte
+        DefaultTableModel tabla;
+        tabla = (DefaultTableModel) tblSecciones.getModel();
+        tabla.setRowCount(0); // Elimina todas las filas actuales
+        for (Map<String, Object> rec : lista) {
+            Object[] rowData = {
+                rec.get("SECCION"),
+                rec.get("PERIODO"),
+                rec.get("NIVEL"),
+                rec.get("GRADO"),
+                rec.get("NOMBRE"),
+                rec.get("VACANTES"),
+                rec.get("MATRICULADOS")            
+            };
+            tabla.addRow(rowData);
+        }
+    }
+
+
 }
