@@ -1,0 +1,15 @@
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.FPrincipal.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.FEditorial.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.FAutor.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\FIEECS\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.FTitulo.resources

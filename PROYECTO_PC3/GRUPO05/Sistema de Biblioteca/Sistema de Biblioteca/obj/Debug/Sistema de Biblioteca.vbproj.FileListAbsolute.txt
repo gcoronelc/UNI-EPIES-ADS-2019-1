@@ -1,0 +1,43 @@
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe.config
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.pdb
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.xml
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form1.resources
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Resources.resources
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.vbproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.exe
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.xml
+c:\users\michelle\documents\visual studio 2012\Projects\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.pdb
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe.config
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.exe
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.xml
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.pdb
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form1.resources
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Resources.resources
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.vbproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.pdb
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.xml
+C:\Users\Michelle\Desktop\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form2.resources
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe.config
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.exe
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.xml
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.pdb
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.pdb
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.xml
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form1.resources
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form2.resources
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Resources.resources
+F:\2019-I\Documentacion\Programacion\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe.config
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.exe
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.xml
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.pdb
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.exe
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.pdb
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\bin\Debug\Sistema de Biblioteca.xml
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form1.resources
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Form2.resources
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema_de_Biblioteca.Resources.resources
+C:\Users\FIEECS\Desktop\Trabajo PC3\Sistema de Biblioteca\Sistema de Biblioteca\obj\Debug\Sistema de Biblioteca.vbproj.GenerateResource.Cache

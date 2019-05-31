@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+matriculas2
+</name>
+</assembly>
+<members>
+<member name="T:matriculas_2.Sist_MatriculaDataSet.CursoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet.HorarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet.CursoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet.HorarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet.CursoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet.HorarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSetTableAdapters.CursoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSetTableAdapters.HorarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(matriculas_2.Sist_MatriculaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(matriculas_2.Sist_MatriculaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(matriculas_2.Sist_MatriculaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.UpdateAll(matriculas_2.Sist_MatriculaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:matriculas_2.Sist_MatriculaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:matriculas_2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:matriculas_2.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:matriculas_2.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

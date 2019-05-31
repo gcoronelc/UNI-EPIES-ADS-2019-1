@@ -1,0 +1,15 @@
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\bin\Debug\PC3.exe.config
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\bin\Debug\PC3.exe
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\bin\Debug\PC3.pdb
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\bin\Debug\PC3.xml
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.Form1.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.FPrincipal.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.FAutor.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.Resources.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\PC3.vbproj.GenerateResource.Cache
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\PC3.exe
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\PC3.xml
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\PC3.pdb
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.FReferencia.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.FTitulo.resources
+F:\6to ciclo UNI\Analisis y Diseño de Sistemas\Trabajo PC3\PC3\PC3\obj\Debug\WindowsApplication1.FAbstract.resources

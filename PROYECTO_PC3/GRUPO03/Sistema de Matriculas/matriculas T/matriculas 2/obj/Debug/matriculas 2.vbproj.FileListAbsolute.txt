@@ -1,0 +1,79 @@
+C:\Users\EDNA GOMER\AppData\Local\Temporary Projects\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\EDNA GOMER\Desktop\proyectoADS\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\FIEECS\Downloads\matriculas 2\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\FIEECS\Downloads\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
+C:\Users\KER\Desktop\matriculas T\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\KER\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\KER\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\KER\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\KER\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbprojResolveAssemblyReference.cache
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\KER\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.frmlogin.resources
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbprojResolveAssemblyReference.cache
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.frmlogin.resources
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\FIEECS\Desktop\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe.config
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas 2.exe
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas 2.xml
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\bin\Debug\Sist_Matricula.accdb
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\bin\Debug\matriculas 2.exe
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\bin\Debug\matriculas 2.pdb
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\bin\Debug\matriculas 2.xml
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbprojResolveAssemblyReference.cache
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form1.resources
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas_2.Form2.resources
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas_2.frmlogin.resources
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas_2.Resources.resources
+C:\Users\FIEECS\Desktop\Sis Matri\matriculas T\matriculas 2\obj\Debug\matriculas 2.vbproj.GenerateResource.Cache
