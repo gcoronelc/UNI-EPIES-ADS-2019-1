@@ -57,12 +57,15 @@ public class SeccionController extends ControllerAbstract {
 		// Obtener el usuario
 		Map<String, Object> usuarioBean;
 		usuarioBean = (Map<String, Object>) Session.get("usuario");
-		int usuario = Integer.parseInt(usuarioBean.get("id_usuario").toString() );
+		int usuario = Integer.parseInt(usuarioBean.get("ID_USUARIO").toString() );
 		// Proceso
 		VentaService service = new VentaService();
 		service.generarCuotaIngreso(estudiante, periodo, usuario);
-		this.setEstado(seccionService.getEstado());
-		this.setMensaje(seccionService.getMensaje());
+		this.setEstado(service.getEstado());
+		this.setMensaje(service.getMensaje());
 	}
 
+        public List<Map<String, Object>> getEstudiantesCuotaIngreso(String apellido){
+            return seccionService.getEstudiantesCuotaIngreso(apellido);
+        }
 }

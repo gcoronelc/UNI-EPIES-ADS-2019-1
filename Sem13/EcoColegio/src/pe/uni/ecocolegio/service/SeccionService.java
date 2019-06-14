@@ -88,7 +88,7 @@ public class SeccionService extends ServiceAbstract {
             cn.setAutoCommit(false);
             PreparedStatement pstm = cn.prepareStatement(sql);
             ResultSet rs = pstm.executeQuery();
-            while(rs.next()){
+            while (rs.next()) {
                 lista.add(rs.getString("PERIODO"));
             }
             rs.close();
@@ -106,12 +106,11 @@ public class SeccionService extends ServiceAbstract {
         }
         return lista;
     }
-    
-    
-   public List<Map<String,Object>> getSecciones(
-           int periodo, int nivel, int grado
-   ) {
-        List<Map<String,Object>> lista = null;
+
+    public List<Map<String, Object>> getSecciones(
+            int periodo, int nivel, int grado
+    ) {
+        List<Map<String, Object>> lista = null;
         Connection cn = null;
         String sql = "{CALL DBO.USP_GET_SECCIONES(?,?,?)}";
         try {
@@ -137,6 +136,41 @@ public class SeccionService extends ServiceAbstract {
             }
         }
         return lista;
-    } 
+    }
+
+    public List<Map<String, Object>> getEstudiantesCuotaIngreso(String apellido) {
+        apellido += "%";
+        List<Map<String, Object>> lista = null;
+        Connection cn = null;
+        String sql = "select id_estudiante id, dni, "
+                + "CONCAT(paterno, ' ', materno, ', ', nombre) nombre "
+                + "from dbo.tb_estudiante  "
+                + "where id_estudiante not in "
+                + "( select id_estudiante from dbo.tb_obligacion "
+                + "  where id_tipo = 1 ) "
+                + "and ( paterno like ? or materno like ? )";
+        try {
+            cn = AccesoDB.getConnection();
+            cn.setAutoCommit(false);
+            PreparedStatement pstm = cn.prepareStatement(sql);
+            pstm.setString(1, apellido);
+            pstm.setString(2, apellido);
+            ResultSet rs = pstm.executeQuery();
+            lista = JdbcUtil.rsToList(rs);
+            rs.close();
+            pstm.close();
+            this.setEstado(1);
+            this.setMensaje("OK");
+        } catch (Exception e) {
+            this.setEstado(-1);
+            this.setMensaje(e.getMessage());
+        } finally {
+            try {
+                cn.close();
+            } catch (Exception e) {
+            }
+        }
+        return lista;
+    }
 
 }
