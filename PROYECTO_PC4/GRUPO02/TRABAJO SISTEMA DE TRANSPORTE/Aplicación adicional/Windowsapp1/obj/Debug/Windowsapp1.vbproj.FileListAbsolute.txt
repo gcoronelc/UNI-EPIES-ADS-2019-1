@@ -1,0 +1,17 @@
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.vbprojAssemblyReference.cache
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.Regtrip.resources
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.Resources.resources
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.vbproj.GenerateResource.cache
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.vbproj.CoreCompileInputs.cache
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\bin\Debug\Windowsapp1.exe.config
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\bin\Debug\Windowsapp1.exe
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\bin\Debug\Windowsapp1.pdb
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\bin\Debug\Windowsapp1.xml
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.exe
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.xml
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.pdb
+C:\Users\esthe\Desktop\visual studio-20190621T042829Z-001\visual studio\Windowsapp1\obj\Debug\Windowsapp1.Form2.resources
+C:\Users\FIEECS\Desktop\Windowsapp1-20190621T204306Z-001\Windowsapp1\bin\Debug\Windowsapp1.exe.config
+C:\Users\FIEECS\Desktop\Windowsapp1-20190621T204306Z-001\Windowsapp1\obj\Debug\Windowsapp1.exe
+C:\Users\FIEECS\Desktop\Windowsapp1-20190621T204306Z-001\Windowsapp1\obj\Debug\Windowsapp1.xml
+C:\Users\FIEECS\Desktop\Windowsapp1-20190621T204306Z-001\Windowsapp1\obj\Debug\Windowsapp1.pdb

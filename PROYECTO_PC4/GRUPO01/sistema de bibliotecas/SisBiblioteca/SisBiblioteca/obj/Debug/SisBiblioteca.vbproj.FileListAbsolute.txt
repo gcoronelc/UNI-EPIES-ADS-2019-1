@@ -1,0 +1,124 @@
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe.config
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.pdb
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.xml
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Form1.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Resources.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbproj.GenerateResource.Cache
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.exe
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.xml
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.pdb
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FPrincipal.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FBibliotecario.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNBibliotecario.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMbibliotecario.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLector.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLector.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLector.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibros.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FAutor.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FGenero.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FEditorial.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLibros.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLibros.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNPrestamo.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLectores.resources
+F:\archivos de jose\Ejercicios Propuestos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLibros.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe.config
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.exe
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.xml
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.pdb
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.pdb
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.xml
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbprojResolveAssemblyReference.cache
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Form1.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Resources.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FAutor.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FBibliotecario.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FEditorial.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FGenero.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLector.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibros.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMbibliotecario.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLector.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLibros.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNBibliotecario.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLector.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLibros.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNPrestamo.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FPrincipal.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLectores.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLibros.resources
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbproj.GenerateResource.Cache
+F:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibrosPrestados.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe.config
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.exe
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.xml
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.pdb
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.pdb
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.xml
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbprojResolveAssemblyReference.cache
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Form1.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Resources.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FAutor.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FBibliotecario.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FEditorial.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FGenero.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLector.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibros.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibrosDevueltos.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibrosPrestados.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMbibliotecario.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLector.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLibros.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNBibliotecario.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLector.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLibros.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNPrestamo.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FPrincipal.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLectores.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLibros.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbproj.GenerateResource.Cache
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FInicio.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.ReporteLibros.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\RdlCompile.cache
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\RdlCompile.compiled
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.ReportePrestamo.resources
+H:\archivos\Proyectos\Sistema de biblioteca\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FDeudaAutor.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe.config
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.exe
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.xml
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.pdb
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.exe
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.pdb
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\bin\Debug\SisBiblioteca.xml
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbprojResolveAssemblyReference.cache
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Form1.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.Resources.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FAutor.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FBibliotecario.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FDeudaAutor.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FEditorial.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FGenero.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FInicio.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLector.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibros.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibrosDevueltos.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FLibrosPrestados.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMbibliotecario.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLector.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FMLibros.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNBibliotecario.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLector.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNLibros.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FNPrestamo.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FPrincipal.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLectores.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.FVistaLibros.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.ReporteLibros.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.ReportePrestamo.resources
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\SisBiblioteca.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\RdlCompile.cache
+C:\Users\FIEECS\Desktop\SisBiblioteca\SisBiblioteca\obj\Debug\RdlCompile.compiled

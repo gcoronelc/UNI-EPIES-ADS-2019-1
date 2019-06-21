@@ -1,0 +1,404 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SisBiblioteca
+</name>
+</assembly>
+<members>
+<member name="T:SisBiblioteca.dbbibliotecaDataSet1.ReportePrestamosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1.ReportePrestamosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1.ReportePrestamosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.ReportePrestamosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SisBiblioteca.dbbibliotecaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SisBiblioteca.dbbibliotecaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SisBiblioteca.dbbibliotecaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.UpdateAll(SisBiblioteca.dbbibliotecaDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.biblio">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.car">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.carnet">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.header">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.Inicio">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.lector">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.lector1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.lector2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.libros">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.libros1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.pass">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SisBiblioteca.My.Resources.Resources.transaccion">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SisBiblioteca.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.AccederBibliotecarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarAutorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarBibliotecariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarEditorialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarGeneroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLectoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoDevueltosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.NroCarnetBibliotecarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.ReporteLibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarCantidadLibroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLectorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLibroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.AccederBibliotecarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarAutorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarBibliotecariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarEditorialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarGeneroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLectoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoDevueltosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.NroCarnetBibliotecarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.ReporteLibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarCantidadLibroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLectorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLibroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.AccederBibliotecarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarAutorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarBibliotecariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarEditorialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarGeneroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLectoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarLibrosStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.MostrarPrestamoDevueltosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.NroCarnetBibliotecarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.ReporteLibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarCantidadLibroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLectorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet.VerificarLibroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.AccederBibliotecarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarAutorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarBibliotecariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarEditorialTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarGeneroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarLectoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarLibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarLibrosStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarPrestamoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.MostrarPrestamoDevueltosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.NroCarnetBibliotecarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.ReporteLibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.VerificarCantidadLibroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.VerificarLectorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.VerificarLibroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisBiblioteca.dbbibliotecaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SisBiblioteca.dbbibliotecaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SisBiblioteca.dbbibliotecaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.UpdateAll(SisBiblioteca.dbbibliotecaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisBiblioteca.dbbibliotecaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

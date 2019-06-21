@@ -1,0 +1,167 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\proyecto\sistema\Proyect\Instalador
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+AcroPDF.dll=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Program Files\DsNET Corp\aTube Catcher 2.0\ImageThumbnailCP.ocx=
+D:\proyecto\sistema\Proyect\EncriptaString.dll=
+C:\Windows\Speech\VText.dll=
+C:\Windows\System32\MSSTDFMT.DLL=
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\MSCOMCT2.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+D:\proyecto\sistema\Proyect\usuario.mdb=
+D:\proyecto\sistema\Proyect\Excel.xls=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+D:\proyecto\sistema\Proyect\Dennis(Sistema de venta de pasajes).exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+C:\Windows\System32\dao350.dll=Yes
+C:\Windows\System32\msjet35.dll=Yes
+C:\Windows\System32\msjter35.dll=Yes
+C:\Windows\System32\msjint35.dll=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\msrd2x35.dll=Yes
+C:\Windows\System32\msrepl35.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\DBRPRES.DLL=Yes
+C:\Windows\Speech\VText.dll=Yes
+D:\proyecto\sistema\Proyect\EncriptaString.dll=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSCC2ES.DLL=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCMCES.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\DATLSES.DLL=Yes
+C:\Program Files\DsNET Corp\aTube Catcher 2.0\ImageThumbnailCP.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\proyecto\sistema\Proyect\usuario.mdb=Yes
+D:\proyecto\sistema\Proyect\Excel.xls=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\proyecto\sistema\Proyect\Dennis(Sistema de venta de pasajes).exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+C:\Windows\System32\dao350.dll=$(MSDAOPath)
+C:\Windows\System32\msjet35.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter35.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint35.dll=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl35.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\DBRPRES.DLL=$(WinSysPath)
+C:\Windows\Speech\VText.dll=$(WinSysPath)
+D:\proyecto\sistema\Proyect\EncriptaString.dll=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSCC2ES.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCMCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\DATLSES.DLL=$(WinSysPath)
+C:\Program Files\DsNET Corp\aTube Catcher 2.0\ImageThumbnailCP.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\proyecto\sistema\Proyect\usuario.mdb=$(AppPath)
+D:\proyecto\sistema\Proyect\Excel.xls=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\proyecto\sistema\Proyect\Dennis(Sistema de venta de pasajes).exe=Yes
+D:\proyecto\sistema\Proyect\usuario.mdb=Yes
+D:\proyecto\sistema\Proyect\Excel.xls=Yes
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Sistemas de venta de pasaje
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Sistemas de venta de pasaje
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Sistemas de venta de pasaje]
+Icon1="Dennis(Sistema de venta de pasajes).exe"
+Title1=Sistemas de venta de pasaje
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\proyecto\sistema\Proyect\Instalador
+ProjectFolder=D:\proyecto\sistema\Proyect
+ServerSideCab=
+File1=D:\proyecto\sistema\Proyect\Instalador\setup.exe
+File2=D:\proyecto\sistema\Proyect\Instalador\Setup.Lst
+File3=D:\proyecto\sistema\Proyect\Instalador\Dennis(Sistema de venta de pasajes).CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

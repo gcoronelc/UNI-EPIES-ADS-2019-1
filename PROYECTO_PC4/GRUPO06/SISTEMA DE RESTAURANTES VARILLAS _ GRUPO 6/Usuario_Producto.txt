@@ -1,0 +1,64 @@
+Create database DISEÑO_VARILLAS6
+Use DISEÑO_VARILLAS6
+
+
+
+create table Usuario
+(
+IdUsuario  integer  primary key ,
+	Usuario  varchar(50) NULL ,
+	Clave  varchar(50)  NULL)
+
+
+create table pedidos
+	(
+	idpedido integer primary key ,
+	categoria varchar(50) null,
+	nombre varchar(50) null,
+	venta integer not null ,
+	fecha datetime )
+
+
+
+create table Producto
+(IdProducto integer  primary key  ,
+Nombre  varchar(30)  NULL ,
+Categoria varchar(30) ,
+Precio money NULL,
+Venta money NULL)
+
+create table pedidos
+	(
+	idpedido integer primary key ,
+	categoria varchar(50) null,
+	nombre varchar(50) null,
+	venta integer not null ,
+	fecha datetime )
+
+
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(2,'Leche asada','Postre',2.5,4.5)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(3,'Gelatina','Postre',0.5,1.5)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(4,'Tres Leche','Postre',2.5,5.00)
+
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(5,'Coca Cola 1L','Bebida',4.0,4.50)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(6,'Coca Cola personal','Bebida',2.0,2.50)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(7,'Agua Cielo','Bebida',0.8,1.00)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(8,'San Mateo','Bebida',1.50,1.80)
+
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(9,'Saltado de Brocoli','Almuerzo',4.0,5.00)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(10,'Arroz chaufa','Almuerzo',3.50,5.00)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(11,'Jugo surtido','Desayuno',5.0,7.00)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(12,'Jugo Papaya','Desayuno',3.00,4.00)
+insert into [dbo].[Producto]([IdProducto],[Nombre],[Categoria],[Precio],[Venta])
+values(13,'Jugo Piña','Desayuno',5.00,6.00)

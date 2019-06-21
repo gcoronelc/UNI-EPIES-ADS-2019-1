@@ -1,0 +1,80 @@
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe.config
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.pdb
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.xml
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbprojResolveAssemblyReference.cache
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ClienteForm.resources
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Prestamos.resources
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.MainForm.resources
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Resources.resources
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ReporteForm.resources
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbproj.GenerateResource.Cache
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.cache
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.compiled
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.exe
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.xml
+C:\Users\Milvio\Desktop\Tutoriales VB\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.pdb
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe.config
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.exe
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.xml
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.pdb
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.pdb
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.xml
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ClienteForm.resources
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Prestamos.resources
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.MainForm.resources
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Resources.resources
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ReporteForm.resources
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\Nueva carpeta (3)\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.compiled
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe.config
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.exe
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.xml
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.pdb
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.pdb
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.xml
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbprojResolveAssemblyReference.cache
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ClienteForm.resources
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Prestamos.resources
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.MainForm.resources
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Resources.resources
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ReporteForm.resources
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbproj.GenerateResource.Cache
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.cache
+F:\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.compiled
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe.config
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.exe
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.xml
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.pdb
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.pdb
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.xml
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbprojResolveAssemblyReference.cache
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ClienteForm.resources
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Prestamos.resources
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.MainForm.resources
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Resources.resources
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ReporteForm.resources
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbproj.GenerateResource.Cache
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.cache
+C:\Users\FIEECS\Desktop\ADS TERCERA PC\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.compiled
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe.config
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.exe
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.xml
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.pdb
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.exe
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.pdb
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\bin\Debug\SimuladorPrestamos.xml
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbprojResolveAssemblyReference.cache
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ClienteForm.resources
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Prestamos.resources
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.MainForm.resources
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.Resources.resources
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.ReporteForm.resources
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\SimuladorPrestamos.vbproj.GenerateResource.Cache
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.cache
+C:\Users\MS01\Desktop\SimuladorPrestamos\SimuladorPrestamos\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,54 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Dennis(Sistema de venta de pasajes).CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Dennis(Sistema de venta de pasajes).exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"VB6ES.DLL"
+"msado21.tlb"
+"dao350.dll"
+"msjet35.dll"
+"msjter35.dll"
+"msjint35.dll"
+"vbajet32.dll"
+"expsrv.dll"
+"msrd2x35.dll"
+"msrepl35.dll"
+"MSVCRT40.DLL"
+"VB5DB.DLL"
+"MSSTDFMT.DLL"
+"MSDBRPTR.DLL"
+"DBRPRES.DLL"
+"VText.dll"
+"EncriptaString.dll"
+"MSADODC.OCX"
+"ADODCES.DLL"
+"MSCOMCT2.OCX"
+"MSCC2ES.DLL"
+"MSCOMCTL.OCX"
+"MSCMCES.DLL"
+"MSDATGRD.OCX"
+"DATGDES.DLL"
+"MSDATLST.OCX"
+"DATLSES.DLL"
+"ImageThumbnailCP.ocx"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"usuario.mdb"
+"Excel.xls"
